@@ -1,6 +1,6 @@
 baseURL: "https://jack-kin.github.io/"
 title: Zhejian Jin
-paginate: 5
+paginate: 10
 theme: PaperMod
 
 enableRobotsTXT: true
@@ -23,7 +23,7 @@ outputs:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Hello
-  description: "Kin's personal blog"
+  description: "Kin's Blog"
   keywords: [Blog, Portfolio, PaperMod]
   author: Kin
   # author: ["Me", "You"] # multiple authors
@@ -74,7 +74,7 @@ params:
       - name: About
         url: about
       - name: Resume
-        url: Jin_Zhejian_zj2324_MSEE.pdf
+        url: ZhejianJin_resume_20220901.pdf
 
   # home-info mode
   homeInfoParams:
