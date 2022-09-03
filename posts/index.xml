@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on Zhejian Jin</title>
+    <title>Posts on Kin&#39;s Blog</title>
     <link>https://jack-kin.github.io/posts/</link>
-    <description>Recent content in Posts on Zhejian Jin</description>
+    <description>Recent content in Posts on Kin&#39;s Blog</description>
     <image>
       <url>https://jack-kin.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://jack-kin.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
@@ -17,7 +17,8 @@
       
       <guid>https://jack-kin.github.io/posts/my-first-post/</guid>
       <description>HAHA HAHA
-HAHA $$ 1 + 1 = 2 $$</description>
+HAHA $$ 1 + 1 = 2 $$
+1 2 3 4 # include &amp;lt;stdio.h&amp;gt; int main() { return 0; } </description>
     </item>
     
   </channel>
