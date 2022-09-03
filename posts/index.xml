@@ -9,7 +9,16 @@
       <link>https://jack-kin.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 31 Aug 2022 12:41:00 -0400</lastBuildDate><atom:link href="https://jack-kin.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 03 Sep 2022 02:00:56 -0400</lastBuildDate><atom:link href="https://jack-kin.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ZeroMQ</title>
+      <link>https://jack-kin.github.io/posts/202209/zeromq/</link>
+      <pubDate>Sat, 03 Sep 2022 02:00:56 -0400</pubDate>
+      
+      <guid>https://jack-kin.github.io/posts/202209/zeromq/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
     <item>
       <title>TEST</title>
       <link>https://jack-kin.github.io/posts/my-first-post/</link>
