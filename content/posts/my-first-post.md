@@ -14,3 +14,10 @@ HAHA
 $$
 1 + 1 = 2
 $$
+
+```C
+# include <stdio.h>
+int main() {
+    return 0;
+}
+```

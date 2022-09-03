@@ -1,5 +1,5 @@
 baseURL: "https://jack-kin.github.io/"
-title: Zhejian Jin
+title: Kin's Blog
 paginate: 10
 theme: PaperMod
 
@@ -166,7 +166,7 @@ markup:
         codeFences: true
         guessSyntax: true
         lineNos: true
-        style: darcula
+        style: vim
 
 privacy:
     vimeo:
