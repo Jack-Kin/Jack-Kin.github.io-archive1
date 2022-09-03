@@ -2,9 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jack-kin.github.io/tags/first/</loc>
-    <lastmod>2022-09-03T02:00:56-04:00</lastmod>
-  </url><url>
     <loc>https://jack-kin.github.io/</loc>
     <lastmod>2022-09-03T02:00:56-04:00</lastmod>
   </url><url>
@@ -14,6 +11,9 @@
     <loc>https://jack-kin.github.io/tags/</loc>
     <lastmod>2022-09-03T02:00:56-04:00</lastmod>
   </url><url>
+    <loc>https://jack-kin.github.io/tags/zeromq/</loc>
+    <lastmod>2022-09-03T02:00:56-04:00</lastmod>
+  </url><url>
     <loc>https://jack-kin.github.io/posts/202209/zeromq/</loc>
     <lastmod>2022-09-03T02:00:56-04:00</lastmod>
   </url><url>
@@ -21,6 +21,9 @@
     <lastmod>2022-08-31T12:41:00-04:00</lastmod>
   </url><url>
     <loc>https://jack-kin.github.io/archetypes/</loc>
+    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://jack-kin.github.io/tags/first/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
     <loc>https://jack-kin.github.io/archetypes/post/</loc>
