@@ -3,8 +3,8 @@ title: "ZeroMQ"
 date: 2022-09-03T02:00:56-04:00
 # weight: 1
 # aliases: ["/first"]
-tags: ["first"]
-author: "Me"
+tags: ["ZeroMQ"]
+author: "Kin"
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
@@ -29,7 +29,8 @@ UseHugoToc: true
 [[zeroMQ]]
 [[MQ]]
 
-ZeroMQ不能算作单纯的socket库，它应该算是一个messaging library，一个“轻量级”的消息队列库
+
+ZeroMQ shouldnot be regarded as a pure socket library, it should be regarded as a messaging library, a "lightweight" message queue library.
 
 [zmq_socket(3) - 0MQ Api (zeromq.org)](http://api.zeromq.org/3-2:zmq-socket)
 [ZeroMQ | Socket API](https://zeromq.org/socket-api/)
@@ -43,7 +44,7 @@ Generally speaking, conventional sockets present a _synchronous_ interface to ei
 Conventional sockets allow only strict one-to-one (two peers), many-to-one (many clients, one server), or in some cases one-to-many (multicast) relationships. With the exception of _ZMQ_PAIR_, ØMQ sockets may be connected **to multiple endpoints** using _zmq_connect()_, while simultaneously accepting incoming connections **from multiple endpoints** bound to the socket using _zmq_bind()_, thus allowing many-to-many relationships.
 
 ## Socket Types
-Different communication patterns different "socket"s
+不同通信pattern不同"socket"
 
 ZeroMQ patterns are implemented by pairs of sockets with matching types.
 
