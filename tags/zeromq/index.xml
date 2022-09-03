@@ -16,7 +16,10 @@
       <pubDate>Sat, 03 Sep 2022 02:00:56 -0400</pubDate>
       
       <guid>https://jack-kin.github.io/posts/202209/zeromq/</guid>
-      <description>Desc Text.</description>
+      <description>[[zeroMQ]] [[MQ]]
+ZeroMQ shouldnot be regarded as a pure socket library, it should be regarded as a messaging library, a &amp;ldquo;lightweight&amp;rdquo; message queue library.
+zmq_socket(3) - 0MQ Api (zeromq.org) ZeroMQ | Socket API
+Key differences to conventional sockets Generally speaking, conventional sockets present a synchronous interface to either connection-oriented reliable byte streams (SOCK_STREAM), or connection-less unreliable datagrams (SOCK_DGRAM). In comparison, ØMQ sockets present an abstraction of an asynchronous message queue, with the exact queueing semantics depending on the socket type in use.</description>
     </item>
     
   </channel>
