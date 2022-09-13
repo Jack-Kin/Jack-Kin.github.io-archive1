@@ -5,7 +5,6 @@ date: 2022-09-03T02:00:56-04:00
 # aliases: ["/first"]
 tags: ["ZeroMQ"]
 author: "Kin"
-# author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: true
 draft: false
@@ -17,7 +16,7 @@ disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
 hideSummary: false
-searchHidden: true
+searchHidden: false
 ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true

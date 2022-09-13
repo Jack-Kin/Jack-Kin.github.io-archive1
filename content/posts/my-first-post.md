@@ -6,11 +6,6 @@ draft: true
 
 
 
-# HAHA
-
-**HAHA**
-
-HAHA
 $$
 1 + 1 = 2
 $$
