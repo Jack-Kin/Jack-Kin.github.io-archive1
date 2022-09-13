@@ -2,10 +2,14 @@
 title: "A Tour of C++ Notes (Part 1)"
 date: 2022-09-12T23:44:21-04:00
 draft: false
+tags: ["C++", "A Tour of C++"]
+author: "Kin" 
 ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 ShowWordCount: true
+hidemeta: false
+comments: false
 ---
 
 [[C++]] 
