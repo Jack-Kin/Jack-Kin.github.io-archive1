@@ -32,16 +32,5 @@ zmq_socket(3) - 0MQ Api (zeromq.org) ZeroMQ | Socket API
 Key differences to conventional sockets Generally speaking, conventional sockets present a synchronous interface to either connection-oriented reliable byte streams (SOCK_STREAM), or connection-less unreliable datagrams (SOCK_DGRAM). In comparison, ØMQ sockets present an abstraction of an asynchronous message queue, with the exact queueing semantics depending on the socket type in use.</description>
     </item>
     
-    <item>
-      <title>TEST</title>
-      <link>https://jack-kin.github.io/posts/my-first-post/</link>
-      <pubDate>Wed, 31 Aug 2022 12:41:00 -0400</pubDate>
-      
-      <guid>https://jack-kin.github.io/posts/my-first-post/</guid>
-      <description>HAHA HAHA
-HAHA $$ 1 + 1 = 2 $$
-1 2 3 4 # include &amp;lt;stdio.h&amp;gt; int main() { return 0; } </description>
-    </item>
-    
   </channel>
 </rss>
