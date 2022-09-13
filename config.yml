@@ -82,7 +82,7 @@ params:
       - name: About
         url: about
       - name: Resume
-        url: ZhejianJin_resume_20220901.pdf
+        url: ZhejianJin_resume_20220906.pdf
 
   # home-info mode
   homeInfoParams:

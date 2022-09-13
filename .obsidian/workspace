@@ -1,0 +1,130 @@
+{
+  "main": {
+    "id": "2c4c33d72bba6a2f",
+    "type": "split",
+    "children": [
+      {
+        "id": "51845fcee4e50068",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6e93d20a4aca7aad",
+    "type": "split",
+    "children": [
+      {
+        "id": "48e54806d6e6177c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "276f2f33f308f354",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d2649f60099ad9d6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "53b628511c9a8dea",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ea96da5aeabbbfec",
+    "type": "split",
+    "children": [
+      {
+        "id": "23395a6f504ff56c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d00eb019b8c4642b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4fef00e921bf9226",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "60ffc6a4f87fdc06",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "82e387be60c4f7dd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "51845fcee4e50068",
+  "lastOpenFiles": [
+    "README.md",
+    "static/ZhejianJin_resume_20220901.pdf",
+    "static/ZhejianJin_resume_20220906.pdf",
+    "static/profile.jpg"
+  ]
+}
