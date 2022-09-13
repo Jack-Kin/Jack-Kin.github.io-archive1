@@ -2,7 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://jack-kin.github.io/tags/a-tour-of-c&#43;&#43;/</loc>
+    <lastmod>2022-09-12T23:44:21-04:00</lastmod>
+  </url><url>
     <loc>https://jack-kin.github.io/posts/202209/a-tour-of-cpp-1/</loc>
+    <lastmod>2022-09-12T23:44:21-04:00</lastmod>
+  </url><url>
+    <loc>https://jack-kin.github.io/tags/c&#43;&#43;/</loc>
     <lastmod>2022-09-12T23:44:21-04:00</lastmod>
   </url><url>
     <loc>https://jack-kin.github.io/</loc>
@@ -12,7 +18,7 @@
     <lastmod>2022-09-12T23:44:21-04:00</lastmod>
   </url><url>
     <loc>https://jack-kin.github.io/tags/</loc>
-    <lastmod>2022-09-03T02:00:56-04:00</lastmod>
+    <lastmod>2022-09-12T23:44:21-04:00</lastmod>
   </url><url>
     <loc>https://jack-kin.github.io/tags/zeromq/</loc>
     <lastmod>2022-09-03T02:00:56-04:00</lastmod>
@@ -29,6 +35,13 @@
     <loc>https://jack-kin.github.io/archetypes/post/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
+    <loc>https://jack-kin.github.io/about/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://jack-kin.github.io/archives/</loc>
+  </url><url>
     <loc>https://jack-kin.github.io/categories/</loc>
+  </url><url>
+    <loc>https://jack-kin.github.io/search/</loc>
   </url>
 </urlset>
