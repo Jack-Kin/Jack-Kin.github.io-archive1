@@ -7,7 +7,7 @@ tags: ["ZeroMQ"]
 author: "Kin"
 # author: ["Me", "You"] # multiple authors
 showToc: true
-TocOpen: false
+TocOpen: true
 draft: false
 hidemeta: false
 comments: false
